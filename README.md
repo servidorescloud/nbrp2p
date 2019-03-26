@@ -1,2 +1,2 @@
-# nbrp2p
+# NBRP2P
 Exchange P2P para Niobio Cash
